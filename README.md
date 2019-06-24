@@ -10,10 +10,10 @@ for these hard classes can be improved.
 We find that this approach increases classification accuracy for these hard to classify items from 89% to 93.5%
 
 ### Observations:
-A simple CNN can achieve classification accuracy of over 93%
+A simple CNN can achieve classification accuracy of over 93%.
 Combining 3 models improves accuracy around 94.4%
 
-It takes around 16 seconds per epoch using Colaboratory GPU accelerator and Test accuracy does not improve significantly after the first 20 epochs
+It takes around 16 seconds per epoch using Colaboratory GPU accelerator and Test accuracy does not improve significantly after the first 20 epochs.
 
 Combining a few more models trained over 20 epochs may further improve classification accuracy in a resonable amount of time.
 
